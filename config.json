@@ -922,31 +922,31 @@
       "sg-windows-allow-rdp-internal"
     ],
     "kms_keys": [
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-aaaaabbbbbcccccd0001",
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-aaaaabbbbbcccccd0002",
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-aaaaabbbbbcccccd0003",
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-aaaaabbbbbcccccd0004",
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-aaaaabbbbbcccccd0005",
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-eeeeefffffgggggh0006",
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-eeeeefffffgggggh0007",
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-eeeeefffffgggggh0008",
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-eeeeefffffgggggh0009",
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-eeeeefffffgggggh0010",
-      "arn:aws:kms:us-east-1:676984420903:key/alias/aws/s3",
-      "arn:aws:kms:us-east-1:676984420903:key/alias/aws/rds",
-      "arn:aws:kms:us-east-1:676984420903:key/alias/aws/ebs",
-      "arn:aws:kms:us-east-1:676984420903:key/alias/custom/DatabaseEncryption",
-      "arn:aws:kms:us-east-1:676984420903:key/alias/custom/AppSecretsKey",
-      "arn:aws:kms:us-west-2:676984420903:key/mrk-11112222333344445555",
-      "arn:aws:kms:eu-west-1:676984420903:key/mrk-66667777888899990000",
-      "arn:aws:kms:ap-southeast-1:676984420903:key/mrk-abababababababababab",
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-cdcdcdcdcdcdcdcdcdcd",
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-efefefefefefefefefef",
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-1a2b3c4d5e6f7a8b9c0d",
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-9f8e7d6c5b4a3f2e1d0c",
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-abcdef0123456789abcd",
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-deadbeefdeadbeefdead",
-      "arn:aws:kms:us-east-1:676984420903:key/mrk-feedfacefeedfacefeed"
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-aaaaabbbbbcccccd0001",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-aaaaabbbbbcccccd0002",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-aaaaabbbbbcccccd0003",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-aaaaabbbbbcccccd0004",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-aaaaabbbbbcccccd0005",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-eeeeefffffgggggh0006",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-eeeeefffffgggggh0007",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-eeeeefffffgggggh0008",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-eeeeefffffgggggh0009",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-eeeeefffffgggggh0010",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/alias/aws/s3",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/alias/aws/rds",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/alias/aws/ebs",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/alias/custom/DatabaseEncryption",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/alias/custom/AppSecretsKey",
+      "arn:aws:kms:us-west-2:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-11112222333344445555",
+      "arn:aws:kms:eu-west-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-66667777888899990000",
+      "arn:aws:kms:ap-southeast-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-abababababababababab",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-cdcdcdcdcdcdcdcdcdcd",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-efefefefefefefefefef",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-1a2b3c4d5e6f7a8b9c0d",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-9f8e7d6c5b4a3f2e1d0c",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-abcdef0123456789abcd",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-deadbeefdeadbeefdead",
+      "arn:aws:kms:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:key/mrk-feedfacefeedfacefeed"
     ],
     "cloudtrails": [
       "org-management-events-trail",
@@ -1198,22 +1198,22 @@
       "ZPRIVATELINKZONE"
     ],
     "load_balancers": [
-      "arn:aws:elasticloadbalancing:us-east-1:676984420903:loadbalancer/app/prod-app-lb/1a2b3c4d5e6f7a8b",
-      "arn:aws:elasticloadbalancing:us-east-1:676984420903:loadbalancer/app/dev-app-lb/2b3c4d5e6f7a8b9c",
-      "arn:aws:elasticloadbalancing:us-west-2:676984420903:loadbalancer/app/staging-app-lb/3c4d5e6f7a8b9c0d",
-      "arn:aws:elasticloadbalancing:us-east-1:676984420903:loadbalancer/net/prod-net-lb/4d5e6f7a8b9c0d1e",
-      "arn:aws:elasticloadbalancing:us-east-1:676984420903:loadbalancer/net/internal-net-lb/5e6f7a8b9c0d1e2f",
-      "arn:aws:elasticloadbalancing:eu-west-1:676984420903:loadbalancer/net/shared-net-lb/6f7a8b9c0d1e2f3g",
-      "arn:aws:elasticloadbalancing:us-east-1:676984420903:loadbalancer/gwlb/security-gwlb/7a8b9c0d1e2f3g4h",
-      "arn:aws:elasticloadbalancing:us-east-1:676984420903:loadbalancer/classic/legacy-elb-1",
-      "arn:aws:elasticloadbalancing:us-east-1:676984420903:loadbalancer/classic/legacy-elb-2",
-      "arn:aws:elasticloadbalancing:*:676984420903:loadbalancer/app/alb-1/*",
-      "arn:aws:elasticloadbalancing:*:676984420903:loadbalancer/app/alb-2/*",
-      "arn:aws:elasticloadbalancing:*:676984420903:loadbalancer/app/alb-3/*",
-      "arn:aws:elasticloadbalancing:*:676984420903:loadbalancer/net/nlb-1/*",
-      "arn:aws:elasticloadbalancing:*:676984420903:loadbalancer/net/nlb-2/*",
-      "arn:aws:elasticloadbalancing:*:676984420903:loadbalancer/net/nlb-3/*",
-      "arn:aws:elasticloadbalancing:*:676984420903:loadbalancer/gwlb/gwlb-1/*",
+      "arn:aws:elasticloadbalancing:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:loadbalancer/app/prod-app-lb/1a2b3c4d5e6f7a8b",
+      "arn:aws:elasticloadbalancing:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:loadbalancer/app/dev-app-lb/2b3c4d5e6f7a8b9c",
+      "arn:aws:elasticloadbalancing:us-west-2:PLACEHOLDER_AWS_ACCOUNT_ID:loadbalancer/app/staging-app-lb/3c4d5e6f7a8b9c0d",
+      "arn:aws:elasticloadbalancing:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:loadbalancer/net/prod-net-lb/4d5e6f7a8b9c0d1e",
+      "arn:aws:elasticloadbalancing:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:loadbalancer/net/internal-net-lb/5e6f7a8b9c0d1e2f",
+      "arn:aws:elasticloadbalancing:eu-west-1:PLACEHOLDER_AWS_ACCOUNT_ID:loadbalancer/net/shared-net-lb/6f7a8b9c0d1e2f3g",
+      "arn:aws:elasticloadbalancing:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:loadbalancer/gwlb/security-gwlb/7a8b9c0d1e2f3g4h",
+      "arn:aws:elasticloadbalancing:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:loadbalancer/classic/legacy-elb-1",
+      "arn:aws:elasticloadbalancing:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:loadbalancer/classic/legacy-elb-2",
+      "arn:aws:elasticloadbalancing:*:PLACEHOLDER_AWS_ACCOUNT_ID:loadbalancer/app/alb-1/*",
+      "arn:aws:elasticloadbalancing:*:PLACEHOLDER_AWS_ACCOUNT_ID:loadbalancer/app/alb-2/*",
+      "arn:aws:elasticloadbalancing:*:PLACEHOLDER_AWS_ACCOUNT_ID:loadbalancer/app/alb-3/*",
+      "arn:aws:elasticloadbalancing:*:PLACEHOLDER_AWS_ACCOUNT_ID:loadbalancer/net/nlb-1/*",
+      "arn:aws:elasticloadbalancing:*:PLACEHOLDER_AWS_ACCOUNT_ID:loadbalancer/net/nlb-2/*",
+      "arn:aws:elasticloadbalancing:*:PLACEHOLDER_AWS_ACCOUNT_ID:loadbalancer/net/nlb-3/*",
+      "arn:aws:elasticloadbalancing:*:PLACEHOLDER_AWS_ACCOUNT_ID:loadbalancer/gwlb/gwlb-1/*",
       "arn:aws:elasticloadbalancing:ap-southeast-1:*:loadbalancer/app/ap-app-lb/*",
       "arn:aws:elasticloadbalancing:ca-central-1:*:loadbalancer/net/ca-net-lb/*",
       "arn:aws:elasticloadbalancing:*:*:loadbalancer/app/web-frontend-alb/*",
@@ -1225,20 +1225,20 @@
       "arn:aws:elasticloadbalancing:*:*:loadbalancer/net/temp-debug-lb/*"
     ],
     "target_groups": [
-      "arn:aws:elasticloadbalancing:us-east-1:676984420903:targetgroup/prod-app-tg-1/1a2b3c4d5e6f7a8b",
-      "arn:aws:elasticloadbalancing:us-east-1:676984420903:targetgroup/prod-app-tg-2/2b3c4d5e6f7a8b9c",
-      "arn:aws:elasticloadbalancing:us-east-1:676984420903:targetgroup/dev-app-tg/3c4d5e6f7a8b9c0d",
-      "arn:aws:elasticloadbalancing:us-west-2:676984420903:targetgroup/staging-app-tg/4d5e6f7a8b9c0d1e",
-      "arn:aws:elasticloadbalancing:us-east-1:676984420903:targetgroup/prod-net-tg/5e6f7a8b9c0d1e2f",
-      "arn:aws:elasticloadbalancing:us-east-1:676984420903:targetgroup/internal-net-tg/6f7a8b9c0d1e2f3g",
-      "arn:aws:elasticloadbalancing:eu-west-1:676984420903:targetgroup/shared-net-tg/7a8b9c0d1e2f3g4h",
-      "arn:aws:elasticloadbalancing:us-east-1:676984420903:targetgroup/security-gwlb-tg/8b9c0d1e2f3g4h5i",
-      "arn:aws:elasticloadbalancing:*:676984420903:targetgroup/tg-1/*",
-      "arn:aws:elasticloadbalancing:*:676984420903:targetgroup/tg-2/*",
-      "arn:aws:elasticloadbalancing:*:676984420903:targetgroup/tg-3/*",
-      "arn:aws:elasticloadbalancing:*:676984420903:targetgroup/tg-4/*",
-      "arn:aws:elasticloadbalancing:*:676984420903:targetgroup/tg-5/*",
-      "arn:aws:elasticloadbalancing:*:676984420903:targetgroup/tg-6/*",
+      "arn:aws:elasticloadbalancing:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:targetgroup/prod-app-tg-1/1a2b3c4d5e6f7a8b",
+      "arn:aws:elasticloadbalancing:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:targetgroup/prod-app-tg-2/2b3c4d5e6f7a8b9c",
+      "arn:aws:elasticloadbalancing:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:targetgroup/dev-app-tg/3c4d5e6f7a8b9c0d",
+      "arn:aws:elasticloadbalancing:us-west-2:PLACEHOLDER_AWS_ACCOUNT_ID:targetgroup/staging-app-tg/4d5e6f7a8b9c0d1e",
+      "arn:aws:elasticloadbalancing:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:targetgroup/prod-net-tg/5e6f7a8b9c0d1e2f",
+      "arn:aws:elasticloadbalancing:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:targetgroup/internal-net-tg/6f7a8b9c0d1e2f3g",
+      "arn:aws:elasticloadbalancing:eu-west-1:PLACEHOLDER_AWS_ACCOUNT_ID:targetgroup/shared-net-tg/7a8b9c0d1e2f3g4h",
+      "arn:aws:elasticloadbalancing:us-east-1:PLACEHOLDER_AWS_ACCOUNT_ID:targetgroup/security-gwlb-tg/8b9c0d1e2f3g4h5i",
+      "arn:aws:elasticloadbalancing:*:PLACEHOLDER_AWS_ACCOUNT_ID:targetgroup/tg-1/*",
+      "arn:aws:elasticloadbalancing:*:PLACEHOLDER_AWS_ACCOUNT_ID:targetgroup/tg-2/*",
+      "arn:aws:elasticloadbalancing:*:PLACEHOLDER_AWS_ACCOUNT_ID:targetgroup/tg-3/*",
+      "arn:aws:elasticloadbalancing:*:PLACEHOLDER_AWS_ACCOUNT_ID:targetgroup/tg-4/*",
+      "arn:aws:elasticloadbalancing:*:PLACEHOLDER_AWS_ACCOUNT_ID:targetgroup/tg-5/*",
+      "arn:aws:elasticloadbalancing:*:PLACEHOLDER_AWS_ACCOUNT_ID:targetgroup/tg-6/*",
       "arn:aws:elasticloadbalancing:ap-southeast-1:*:targetgroup/ap-app-tg/*",
       "arn:aws:elasticloadbalancing:ca-central-1:*:targetgroup/ca-net-tg/*",
       "arn:aws:elasticloadbalancing:*:*:targetgroup/web-frontend-tg/*",
@@ -4168,7 +4168,7 @@
   },
   "gcp_config": {
     "transport": "pubsub",
-    "gcp_project_id": "eboerger-xsiam",
+    "gcp_project_id": "PLACEHOLDER_GCP_PROJECT_ID",
     "pubsub_topic": "xsiam-audit-logs",
     "organization_id": "123456789012",
     "gcp_regions": [
@@ -4179,16 +4179,16 @@
       "asia-east1"
     ],
     "service_accounts": [
-      "terraform-runner@eboerger-xsiam.iam.gserviceaccount.com",
-      "gke-node-sa@eboerger-xsiam.iam.gserviceaccount.com",
-      "ci-cd-deployer@eboerger-xsiam.iam.gserviceaccount.com",
-      "data-pipeline-sa@eboerger-xsiam.iam.gserviceaccount.com",
-      "monitoring-agent@eboerger-xsiam.iam.gserviceaccount.com"
+      "terraform-runner@PLACEHOLDER_GCP_PROJECT_ID.iam.gserviceaccount.com",
+      "gke-node-sa@PLACEHOLDER_GCP_PROJECT_ID.iam.gserviceaccount.com",
+      "ci-cd-deployer@PLACEHOLDER_GCP_PROJECT_ID.iam.gserviceaccount.com",
+      "data-pipeline-sa@PLACEHOLDER_GCP_PROJECT_ID.iam.gserviceaccount.com",
+      "monitoring-agent@PLACEHOLDER_GCP_PROJECT_ID.iam.gserviceaccount.com"
     ],
     "serverless_service_accounts": [
-      "676984420903-compute@developer.gserviceaccount.com",
-      "eboerger-xsiam@appspot.gserviceaccount.com",
-      "676984420903@cloudbuild.gserviceaccount.com"
+      "PLACEHOLDER_GCP_PROJECT_NUMBER-compute@developer.gserviceaccount.com",
+      "PLACEHOLDER_GCP_PROJECT_ID@appspot.gserviceaccount.com",
+      "PLACEHOLDER_GCP_PROJECT_NUMBER@cloudbuild.gserviceaccount.com"
     ],
     "gce_instances": [
       "prod-web-01",
@@ -4199,10 +4199,10 @@
       "db-replica-01"
     ],
     "gcs_buckets": [
-      "eboerger-xsiam-backups",
-      "eboerger-xsiam-artifacts",
-      "eboerger-xsiam-logs",
-      "eboerger-xsiam-public-assets"
+      "PLACEHOLDER_GCP_PROJECT_ID-backups",
+      "PLACEHOLDER_GCP_PROJECT_ID-artifacts",
+      "PLACEHOLDER_GCP_PROJECT_ID-logs",
+      "PLACEHOLDER_GCP_PROJECT_ID-public-assets"
     ],
     "gke_clusters": [
       "prod-cluster-us-central1",
@@ -4259,8 +4259,8 @@
       "user-auth-db"
     ],
     "artifact_registries": [
-      "us-central1-docker.pkg.dev/eboerger-xsiam/app-images",
-      "us-central1-docker.pkg.dev/eboerger-xsiam/base-images"
+      "us-central1-docker.pkg.dev/PLACEHOLDER_GCP_PROJECT_ID/app-images",
+      "us-central1-docker.pkg.dev/PLACEHOLDER_GCP_PROJECT_ID/base-images"
     ],
     "cloudbuild_triggers": [
       "main-branch-deploy",
@@ -4277,47 +4277,47 @@
       "cdn-edge-policy"
     ],
     "pubsub_topics": [
-      "projects/eboerger-xsiam/topics/app-events",
-      "projects/eboerger-xsiam/topics/audit-export",
-      "projects/eboerger-xsiam/topics/data-pipeline-ingest",
-      "projects/eboerger-xsiam/topics/siem-log-export"
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/topics/app-events",
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/topics/audit-export",
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/topics/data-pipeline-ingest",
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/topics/siem-log-export"
     ],
     "pubsub_subscriptions": [
-      "projects/eboerger-xsiam/subscriptions/app-events-worker",
-      "projects/eboerger-xsiam/subscriptions/audit-export-sub",
-      "projects/eboerger-xsiam/subscriptions/data-pipeline-consumer",
-      "projects/eboerger-xsiam/subscriptions/xsiam-gcp-pull"
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/subscriptions/app-events-worker",
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/subscriptions/audit-export-sub",
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/subscriptions/data-pipeline-consumer",
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/subscriptions/xsiam-gcp-pull"
     ],
     "vertex_ai_endpoints": [
-      "projects/eboerger-xsiam/locations/us-central1/endpoints/1111111111",
-      "projects/eboerger-xsiam/locations/us-central1/endpoints/2222222222",
-      "projects/eboerger-xsiam/locations/us-central1/endpoints/3333333333"
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/locations/us-central1/endpoints/1111111111",
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/locations/us-central1/endpoints/2222222222",
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/locations/us-central1/endpoints/3333333333"
     ],
     "vertex_ai_index_endpoints": [
-      "projects/eboerger-xsiam/locations/us-central1/indexEndpoints/4444444444"
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/locations/us-central1/indexEndpoints/4444444444"
     ],
     "vertex_ai_models": [
-      "projects/eboerger-xsiam/locations/us-central1/models/fraud-detection-v2",
-      "projects/eboerger-xsiam/locations/us-central1/models/customer-churn-v1"
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/locations/us-central1/models/fraud-detection-v2",
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/locations/us-central1/models/customer-churn-v1"
     ],
     "vertex_ai_datasets": [
-      "projects/eboerger-xsiam/locations/us-central1/datasets/training-data-2024",
-      "projects/eboerger-xsiam/locations/us-central1/datasets/labeled-images-v3"
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/locations/us-central1/datasets/training-data-2024",
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/locations/us-central1/datasets/labeled-images-v3"
     ],
     "vertex_ai_labeling_jobs": [
-      "projects/eboerger-xsiam/locations/us-central1/dataLabelingJobs/classify-support-tickets"
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/locations/us-central1/dataLabelingJobs/classify-support-tickets"
     ],
     "sensitive_secret_ids": [
-      "projects/eboerger-xsiam/secrets/db-prod-password",
-      "projects/eboerger-xsiam/secrets/api-signing-key",
-      "projects/eboerger-xsiam/secrets/payment-gateway-credentials"
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/secrets/db-prod-password",
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/secrets/api-signing-key",
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/secrets/payment-gateway-credentials"
     ],
     "dlp_inspect_templates": [
-      "projects/eboerger-xsiam/inspectTemplates/pii-detection",
-      "projects/eboerger-xsiam/inspectTemplates/credit-card-scan"
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/inspectTemplates/pii-detection",
+      "projects/PLACEHOLDER_GCP_PROJECT_ID/inspectTemplates/credit-card-scan"
     ]
   },
-  "account_id": "676984420903",
+  "account_id": "PLACEHOLDER_GCP_PROJECT_NUMBER",
   "user_profiles": {
     "a.tucker": {
       "display_name": "Adam Tucker",
