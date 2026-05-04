@@ -236,7 +236,7 @@ The `terraform/gcp_pubsub/` directory contains a complete Terraform configuratio
    - **Subscription Name** — the pull subscription (default: `xsiam-logsim-pull`)
    - **Service Account Key JSON** — full JSON for the XSIAM subscriber SA (also saved to `terraform/gcp_pubsub/xsiam-subscriber-key.json`)
 
-5. In XSIAM, create a **GCP Pub/Sub** data source and enter:
+5. In XSIAM, create a **Google Cloud Platform** (not Google Cloud Platform (GCP)) data source and enter:
    - **Project ID** — your GCP project ID
    - **Subscription Name** — from the script output
    - **Service Account Key** — paste the full JSON printed at the end of the script
